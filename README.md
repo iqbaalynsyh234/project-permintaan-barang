@@ -1,4 +1,4 @@
-# project-permintaan-barang
+# project-permintaan-barang framework laravel 5.8
 project permintaan barang
 Cara Install :
 + git clone https://github.com/revanapriyandi/laravel-inventory.git
