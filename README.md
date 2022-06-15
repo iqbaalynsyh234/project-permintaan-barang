@@ -1,7 +1,7 @@
 # project-permintaan-barang framework laravel 5.8
 project permintaan barang
 Cara Install :
-+ git clone https://github.com/revanapriyandi/laravel-inventory.git
++ unduh file dalam github tersebut
 + composer install + php artisan migrate
 + php artisan key:generate
 + php artisan serve || localhost:8000
